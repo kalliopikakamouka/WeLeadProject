@@ -54,11 +54,11 @@ We tested multiple classification algorithms to determine the best performer:<br
 4. Alexandra Mikroni<br/>
 
 ## 📂 Project Structure<br/>
-📁 EDA.py - Contains the code for the Exploratory Data Analysis<br/>
-📁 Preprocessing.py - Contains the preprocessing code<br/>
-📁 Model.py - Contains the code used for testing multiple models<br/>
-📁 final_urban_eco_miles_web_app.py - Contains the code for running the app<br/>
-📄 README.md - Project documentation<br/>
-🗃️ mpg.data.xlsx - The given dataset<br/>
-👩🏻‍🏫 Project_Presentation.pptx - The PowerPoint presentation of the project<br/>
-📋 CodeHub[...].pdf - Contains the instructions given for the project
+📁 **EDA.py** - Contains the code for the Exploratory Data Analysis<br/>
+📁 **Preprocessing.py** - Contains the preprocessing code<br/>
+📁 **Model.py** - Contains the code used for testing multiple models<br/>
+📁 **final_urban_eco_miles_web_app.py** - Contains the code for running the web app<br/>
+📄 **README.md** - Project documentation<br/>
+🗃️ **mpg.data.xlsx** - The given dataset<br/>
+👩🏻‍🏫 **Project_Presentation.pptx** - The PowerPoint presentation of the project<br/>
+📋 **CodeHub[...].pdf** - Contains the instructions given for the project
