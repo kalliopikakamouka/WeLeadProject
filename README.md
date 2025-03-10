@@ -57,8 +57,8 @@ We tested multiple classification algorithms to determine the best performer:<br
 📁 EDA.py - Contains the code for EDA<br/>
 📁 Preprocessing.py - Contains the preprocessing code<br/>
 📁 Model.py - Contains the code used for testing multiple models<br/>
-📁 final_urban_eco_miles_web_app - Contains the code for running the app<br/>
+📁 final_urban_eco_miles_web_app.py - Contains the code for running the app<br/>
 📜 README.md - Project documentation<br/>
-🗃️ mpg.data - The given dataset<br/>
-👩🏻‍🏫 Project_Presentation - The PowerPoint presentation of the project<br/>
-📄 CodeHub [...] - Contains the instructions given for the project
+🗃️ mpg.data.xlsx - The given dataset<br/>
+👩🏻‍🏫 Project_Presentation.pptx - The PowerPoint presentation of the project<br/>
+📄 CodeHub[...].pdf - Contains the instructions given for the project
