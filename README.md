@@ -61,4 +61,4 @@ We tested multiple classification algorithms to determine the best performer:<br
 📜 README.md - Project documentation<br/>
 🗃️ mpg.data - The given dataset<br/>
 👩🏻‍🏫 Project_Presentation - The PowerPoint presentation of the project<br/>
-📄 
+📄 CodeHub [...] - Contains the instructions given for the project
