@@ -25,7 +25,7 @@ We tested multiple classification algorithms to determine the best performer:<br
 🔹 SMOTE (Synthetic Minority Over-sampling Technique) was applied to balance the dataset<br/>
 🔹 Stratified K-Fold Cross-Validation was used to ensure robust performance evaluation<br/>
 
-### 🎯 4. Model Evaluation & Fine-Tuning<br/>
+### 🎯 4. Model Evaluation<br/>
 - Measured accuracy, precision, recall, and F1-score<br/>
 - Compared model performance using cross-validation results<br/>
 - Selected the best classifier based on performance metrics<br/>
