@@ -54,9 +54,11 @@ We tested multiple classification algorithms to determine the best performer:<br
 4. Alexandra Mikroni<br/>
 
 ## 📂 Project Structure<br/>
-📁 data/ - Contains the original and processed datasets<br/>
-📁 notebooks/ - Jupyter notebooks for EDA, preprocessing, and modeling<br/>
-📁 models/ - Saved trained models and scalers<br/>
-📁 app/ - Gradio web app for interactive predictions<br/>
+📁 EDA.py - Contains the code for EDA<br/>
+📁 Preprocessing.py - Contains the preprocessing code<br/>
+📁 Model.py - Contains the code used for testing multiple models<br/>
+📁 final_urban_eco_miles_web_app - Contains the code for running the app<br/>
 📜 README.md - Project documentation<br/>
-💾 requirements.txt - Required Python dependencies<br/>
+🗃️ mpg.data - The given dataset<br/>
+👩🏻‍🏫 Project_Presentation - The PowerPoint presentation of the project<br/>
+📄 
