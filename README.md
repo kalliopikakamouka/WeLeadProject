@@ -36,14 +36,14 @@ We tested multiple classification algorithms to determine the best performer:<br
 - Saves prediction history for future analysis<br/>
 
 ## 📊 Results & Insights<br/>
-🔹Weight and MPG are strongly negatively correlated (lighter cars are more fuel-efficient)<br/>
-🔹SMOTE improved model performance by addressing class imbalance<br/>
-🔹Random Forest outperformed other models, achieving the best balance of accuracy and interpretability<br/>
-🔹The Gradio app provides an easy way for users to classify MPG based on car attributes<br/>
+- Weight and MPG are strongly negatively correlated (lighter cars are more fuel-efficient)<br/>
+- SMOTE improved model performance by addressing class imbalance<br/>
+- Random Forest outperformed other models, achieving the best balance of accuracy and interpretability<br/>
+- The Gradio app provides an easy way for users to classify MPG based on car attributes<br/>
 
 ## 📌 Future Improvements<br/>
-✅ Integrate deep learning models for comparison<br/>
-✅ Expand dataset with more recent car models for improved generalization<br/>
+- Integrate deep learning models for comparison<br/>
+- Expand dataset with more recent car models for improved generalization<br/>
 
 ## 👥 Team Members & Contributions<br/>
 ### 🎓 Developed as part of the WE LEAD Bootcamp Group Project<br/>
